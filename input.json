@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "type": "Professional Writing",
+      "tasks": [
+        {
+          "question": "Question 1",
+          "task": "Draft a formal resignation letter with a positive tone."
+        },
+        {
+          "question": "Question 2",
+          "task": "Compose a persuasive job application email tailored to a specific role."
+        },
+        {
+          "question": "Question 3",
+          "task": "Develop a detailed project proposal with objectives and timelines."
+        }
+      ]
+    },
+    {
+      "type": "Creative Writing",
+      "tasks": [
+        {
+          "question": "Question 1",
+          "task": "Outline an engaging short story plot with a surprising twist."
+        },
+        {
+          "question": "Question 2",
+          "task": "Write a vivid and inspiring poem celebrating the beauty of nature."
+        },
+        {
+          "question": "Question 3",
+          "task": "Create in-depth character descriptions with unique traits and backstories."
+        }
+      ]
+    },
+    {
+      "type": "Technical Content",
+      "tasks": [
+        {
+          "question": "Question 1",
+          "task": "Write comprehensive documentation for a software codebase."
+        },
+        {
+          "question": "Question 2",
+          "task": "Develop API documentation, including endpoints and usage examples."
+        },
+        {
+          "question": "Question 3",
+          "task": "Create a clear and concise bug report with replication steps."
+        }
+      ]
+    },
+    {
+      "type": "Academic Writing",
+      "tasks": [
+        {
+          "question": "Question 1",
+          "task": "Generate a concise and impactful research abstract."
+        },
+        {
+          "question": "Question 2",
+          "task": "Write a strong and focused thesis statement for a research paper."
+        },
+        {
+          "question": "Question 3",
+          "task": "Summarize a scholarly article with key insights and findings."
+        }
+      ]
+    },
+    {
+      "type": "Marketing Content",
+      "tasks": [
+        {
+          "question": "Question 1",
+          "task": "Write compelling product descriptions highlighting features and benefits."
+        },
+        {
+          "question": "Question 2",
+          "task": "Create engaging social media posts tailored to a target audience."
+        },
+        {
+          "question": "Question 3",
+          "task": "Generate persuasive marketing emails with a strong call-to-action."
+        }
+      ]
+    }
+  ]
+}
